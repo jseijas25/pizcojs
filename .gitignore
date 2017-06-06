@@ -1,0 +1,20 @@
+node_modules
+public
+.tmp
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+npm-debug.log
+
+#idea
+*.iml
+*.mp3
+*.d.ts
+*.db
+
+#VS Code
+.vscode
+
+#Typings
+typings
